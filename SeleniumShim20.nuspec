@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <iconUrl>http://www.pdclipart.org/albums/Small_Icons/small_gears.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SeleniumShim uses implicit retry until timeout loops within calls to FindElement and user actions on IWebElement objects which solves race conditions and problems with 'stale' references to WebElement.</description>
+    <summary>Light object model shim that abstracts Selenium WebDriver operations and simplifies running test automation with multiple browsers.</summary>
+    <releaseNotes>Includes WebDriverFactory which simplifies placing WebDriver executables in the executing assembly directory. Supports inclusion of WebDriver executable files as .Net embedded resources. Improved API</releaseNotes>
+    <copyright>Copyright © 2014, 2015 Experior Technologies LLC</copyright>
+    <tags>Selenium Test UI Automation JavaScript Testing Web</tags>
+  </metadata>
+</package>
