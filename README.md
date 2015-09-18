@@ -7,4 +7,5 @@ Proposed changes for 2.1 release:
 
 - Latency values
 - GetText()
+- Document use of wait times for performance testing
 
