@@ -6,7 +6,7 @@ If you have Thread.Sleep(n) anywhere in your Selenium test code, you need Seleni
 Proposed changes for 2.1 release:
 
 - Latency values
-- GetText()
+- TextIsVisible()
 - Document use of wait times for performance testing
 - Unit tests (internal)
 - Source code samples and documentation
